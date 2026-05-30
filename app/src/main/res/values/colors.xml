@@ -1,0 +1,8 @@
+<resources>
+    <color name="future_black">#05070D</color>
+    <color name="future_panel">#10131A</color>
+    <color name="future_cyan">#00D4FF</color>
+    <color name="future_violet">#7C5CFF</color>
+    <color name="future_green">#18F2B2</color>
+    <color name="future_gold">#D9B76F</color>
+</resources>

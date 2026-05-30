@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FutureOS Aurora</string>
+    <string name="wallpaper_name">FutureOS Aurora Live</string>
+    <string name="notification_listener_name">FutureOS Aurora Notifications</string>
+</resources>
