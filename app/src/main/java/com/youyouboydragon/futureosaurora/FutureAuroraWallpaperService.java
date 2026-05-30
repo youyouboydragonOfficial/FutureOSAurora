@@ -17,6 +17,7 @@ public final class FutureAuroraWallpaperService extends WallpaperService {
         private long startMs;
 
         AuroraEngine() {
+            state.showHud = false;
             renderer = new FutureAuroraView(FutureAuroraWallpaperService.this, state);
         }
 

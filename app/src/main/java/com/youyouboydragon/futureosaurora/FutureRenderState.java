@@ -6,6 +6,7 @@ final class FutureRenderState {
     volatile float treble;
     volatile boolean musicActive;
     volatile boolean cinemaActive;
+    volatile boolean showHud = true;
     volatile int notificationCount;
     volatile String mediaTitle = "No media";
     volatile String mediaSubtitle = "FutureOS Aurora";
